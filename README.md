@@ -1,1 +1,1 @@
-# COMP5047_CW_Group39
+***Add details for each folder
