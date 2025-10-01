@@ -1,7 +1,5 @@
 ## Team Members and Responsibilities
 
-The table below shows the allocation of responsibilities for each team member across the four subsystems of the project:
-
 | Name | Student ID | Assigned Subsystem | GitHub Profile |
 |------|------------|-------------------|----------------|
 | Lukas Guggenberger | 19387653 | USU Student App   | [geagg-at](https://github.com/geagg-at) |
