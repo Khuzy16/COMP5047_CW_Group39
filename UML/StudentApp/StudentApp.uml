@@ -268,4 +268,103 @@
       <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_FwFeYKeFEfCT-L9lhp8cNw" name="LiteralUnlimitedNatural1" value="*"/>
     </ownedEnd>
   </packagedElement>
+  <packagedElement xmi:type="uml:Activity" xmi:id="_dpziwKz6EfCDHPGAmpaFUg" name="Joining and Subscribing to Society - Use Case" node="_QH0dEKz9EfCDHPGAmpaFUg _C728oKz-EfCDHPGAmpaFUg _O00usKz-EfCDHPGAmpaFUg _5WK_UKz-EfCDHPGAmpaFUg _GoP5YKz_EfCDHPGAmpaFUg _lLRW0Kz_EfCDHPGAmpaFUg _22T1MKz_EfCDHPGAmpaFUg _HytE4K0AEfCDHPGAmpaFUg _oZrXEK0AEfCDHPGAmpaFUg _rOtqgK0AEfCDHPGAmpaFUg _CHDUMK0BEfCDHPGAmpaFUg _MYhkAK0BEfCDHPGAmpaFUg _15ZAUK0HEfCDHPGAmpaFUg _Du5-oK0IEfCDHPGAmpaFUg _aVwPsK0IEfCDHPGAmpaFUg _hahS8K0IEfCDHPGAmpaFUg _p0wUUK0IEfCDHPGAmpaFUg _Dl5-MK0JEfCDHPGAmpaFUg _iXuFkK0JEfCDHPGAmpaFUg _mtqyIK0JEfCDHPGAmpaFUg _LD0r0K0KEfCDHPGAmpaFUg _TzGJEK0KEfCDHPGAmpaFUg _hXWYQK0KEfCDHPGAmpaFUg" group="_wHQVgKz6EfCDHPGAmpaFUg _3NbuAKz6EfCDHPGAmpaFUg _qwDnUKz6EfCDHPGAmpaFUg">
+    <edge xmi:type="uml:ControlFlow" xmi:id="_KeUBcKz-EfCDHPGAmpaFUg" target="_C728oKz-EfCDHPGAmpaFUg" source="_QH0dEKz9EfCDHPGAmpaFUg"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_CtNnMKz_EfCDHPGAmpaFUg" inPartition="_qwDnUKz6EfCDHPGAmpaFUg" target="_O00usKz-EfCDHPGAmpaFUg" source="_C728oKz-EfCDHPGAmpaFUg"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_E6sLYKz_EfCDHPGAmpaFUg" inPartition="_qwDnUKz6EfCDHPGAmpaFUg" target="_5WK_UKz-EfCDHPGAmpaFUg" source="_O00usKz-EfCDHPGAmpaFUg"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_MJX_oKz_EfCDHPGAmpaFUg" target="_GoP5YKz_EfCDHPGAmpaFUg" source="_5WK_UKz-EfCDHPGAmpaFUg"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_0duNMKz_EfCDHPGAmpaFUg" inPartition="_wHQVgKz6EfCDHPGAmpaFUg" target="_lLRW0Kz_EfCDHPGAmpaFUg" source="_GoP5YKz_EfCDHPGAmpaFUg"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_AfzfAK0AEfCDHPGAmpaFUg" name="no" inPartition="_wHQVgKz6EfCDHPGAmpaFUg" target="_22T1MKz_EfCDHPGAmpaFUg" source="_lLRW0Kz_EfCDHPGAmpaFUg"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_OQiOgK0BEfCDHPGAmpaFUg" target="_MYhkAK0BEfCDHPGAmpaFUg" source="_22T1MKz_EfCDHPGAmpaFUg"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_rNuSYK0IEfCDHPGAmpaFUg" target="_p0wUUK0IEfCDHPGAmpaFUg" source="_hahS8K0IEfCDHPGAmpaFUg"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_JLXx4K0JEfCDHPGAmpaFUg" name="yes" inPartition="_wHQVgKz6EfCDHPGAmpaFUg" target="_Dl5-MK0JEfCDHPGAmpaFUg" source="_lLRW0Kz_EfCDHPGAmpaFUg"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_OI0jUK0JEfCDHPGAmpaFUg" target="_HytE4K0AEfCDHPGAmpaFUg" source="_Dl5-MK0JEfCDHPGAmpaFUg"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_WYzcgK0JEfCDHPGAmpaFUg" inPartition="_qwDnUKz6EfCDHPGAmpaFUg" target="_rOtqgK0AEfCDHPGAmpaFUg" source="_HytE4K0AEfCDHPGAmpaFUg"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_ao4xoK0JEfCDHPGAmpaFUg" inPartition="_qwDnUKz6EfCDHPGAmpaFUg" target="_oZrXEK0AEfCDHPGAmpaFUg" source="_HytE4K0AEfCDHPGAmpaFUg"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_qnT9MK0JEfCDHPGAmpaFUg" target="_iXuFkK0JEfCDHPGAmpaFUg" source="_rOtqgK0AEfCDHPGAmpaFUg"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_wvgqgK0JEfCDHPGAmpaFUg" target="_mtqyIK0JEfCDHPGAmpaFUg" source="_oZrXEK0AEfCDHPGAmpaFUg"/>
+    <edge xmi:type="uml:ObjectFlow" xmi:id="__b7boK0JEfCDHPGAmpaFUg" target="_CHDUMK0BEfCDHPGAmpaFUg" source="__b934K0JEfCDHPGAmpaFUg">
+      <guard xmi:type="uml:LiteralBoolean" xmi:id="__cKFIK0JEfCDHPGAmpaFUg" value="true"/>
+      <weight xmi:type="uml:LiteralInteger" xmi:id="__cKFIa0JEfCDHPGAmpaFUg" value="1"/>
+    </edge>
+    <edge xmi:type="uml:ObjectFlow" xmi:id="_AQ3fkK0KEfCDHPGAmpaFUg" target="_AQ4GoK0KEfCDHPGAmpaFUg" source="_CHDUMK0BEfCDHPGAmpaFUg">
+      <guard xmi:type="uml:LiteralBoolean" xmi:id="_ARB3oK0KEfCDHPGAmpaFUg" value="true"/>
+      <weight xmi:type="uml:LiteralInteger" xmi:id="_ARB3oa0KEfCDHPGAmpaFUg" value="1"/>
+    </edge>
+    <edge xmi:type="uml:ObjectFlow" xmi:id="_BYhEIK0KEfCDHPGAmpaFUg" target="_Du5-oK0IEfCDHPGAmpaFUg" source="_BYhrMK0KEfCDHPGAmpaFUg">
+      <guard xmi:type="uml:LiteralBoolean" xmi:id="_BYsDQK0KEfCDHPGAmpaFUg" value="true"/>
+      <weight xmi:type="uml:LiteralInteger" xmi:id="_BYsDQa0KEfCDHPGAmpaFUg" value="1"/>
+    </edge>
+    <edge xmi:type="uml:ObjectFlow" xmi:id="_OuHMQK0KEfCDHPGAmpaFUg" target="_OuJogK0KEfCDHPGAmpaFUg" source="_Du5-oK0IEfCDHPGAmpaFUg">
+      <guard xmi:type="uml:LiteralBoolean" xmi:id="_OuXq8K0KEfCDHPGAmpaFUg" value="true"/>
+      <weight xmi:type="uml:LiteralInteger" xmi:id="_OuXq8a0KEfCDHPGAmpaFUg" value="1"/>
+    </edge>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_ZfH3wK0KEfCDHPGAmpaFUg" inPartition="_3NbuAKz6EfCDHPGAmpaFUg" target="_aVwPsK0IEfCDHPGAmpaFUg" source="_LD0r0K0KEfCDHPGAmpaFUg"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_dA9m0K0KEfCDHPGAmpaFUg" inPartition="_3NbuAKz6EfCDHPGAmpaFUg" target="_aVwPsK0IEfCDHPGAmpaFUg" source="_15ZAUK0HEfCDHPGAmpaFUg"/>
+    <edge xmi:type="uml:ObjectFlow" xmi:id="_wu7mQK0KEfCDHPGAmpaFUg" target="_wu8NUK0KEfCDHPGAmpaFUg" source="_hXWYQK0KEfCDHPGAmpaFUg">
+      <guard xmi:type="uml:LiteralBoolean" xmi:id="_wvHzgK0KEfCDHPGAmpaFUg" value="true"/>
+      <weight xmi:type="uml:LiteralInteger" xmi:id="_wvHzga0KEfCDHPGAmpaFUg" value="1"/>
+    </edge>
+    <edge xmi:type="uml:ObjectFlow" xmi:id="_3E1YYK0KEfCDHPGAmpaFUg" target="_hXWYQK0KEfCDHPGAmpaFUg" source="_3E30oK0KEfCDHPGAmpaFUg">
+      <guard xmi:type="uml:LiteralBoolean" xmi:id="_3FITUK0KEfCDHPGAmpaFUg" value="true"/>
+      <weight xmi:type="uml:LiteralInteger" xmi:id="_3FITUa0KEfCDHPGAmpaFUg" value="1"/>
+    </edge>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_4XpEEK0KEfCDHPGAmpaFUg" inPartition="_3NbuAKz6EfCDHPGAmpaFUg" target="_TzGJEK0KEfCDHPGAmpaFUg" source="_aVwPsK0IEfCDHPGAmpaFUg"/>
+    <group xmi:type="uml:ActivityPartition" xmi:id="_qwDnUKz6EfCDHPGAmpaFUg" name="Student" node="_C728oKz-EfCDHPGAmpaFUg _O00usKz-EfCDHPGAmpaFUg _5WK_UKz-EfCDHPGAmpaFUg _HytE4K0AEfCDHPGAmpaFUg _oZrXEK0AEfCDHPGAmpaFUg _rOtqgK0AEfCDHPGAmpaFUg" edge="_CtNnMKz_EfCDHPGAmpaFUg _E6sLYKz_EfCDHPGAmpaFUg _WYzcgK0JEfCDHPGAmpaFUg _ao4xoK0JEfCDHPGAmpaFUg"/>
+    <group xmi:type="uml:ActivityPartition" xmi:id="_wHQVgKz6EfCDHPGAmpaFUg" name="App" node="_GoP5YKz_EfCDHPGAmpaFUg _lLRW0Kz_EfCDHPGAmpaFUg _22T1MKz_EfCDHPGAmpaFUg _hahS8K0IEfCDHPGAmpaFUg _Dl5-MK0JEfCDHPGAmpaFUg _iXuFkK0JEfCDHPGAmpaFUg _mtqyIK0JEfCDHPGAmpaFUg" edge="_0duNMKz_EfCDHPGAmpaFUg _AfzfAK0AEfCDHPGAmpaFUg _JLXx4K0JEfCDHPGAmpaFUg"/>
+    <group xmi:type="uml:ActivityPartition" xmi:id="_3NbuAKz6EfCDHPGAmpaFUg" name="Backend" node="_15ZAUK0HEfCDHPGAmpaFUg _LD0r0K0KEfCDHPGAmpaFUg _TzGJEK0KEfCDHPGAmpaFUg _aVwPsK0IEfCDHPGAmpaFUg" edge="_ZfH3wK0KEfCDHPGAmpaFUg _dA9m0K0KEfCDHPGAmpaFUg _4XpEEK0KEfCDHPGAmpaFUg"/>
+    <node xmi:type="uml:InitialNode" xmi:id="_QH0dEKz9EfCDHPGAmpaFUg" name="" outgoing="_KeUBcKz-EfCDHPGAmpaFUg"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_C728oKz-EfCDHPGAmpaFUg" name="Open App" incoming="_KeUBcKz-EfCDHPGAmpaFUg" outgoing="_CtNnMKz_EfCDHPGAmpaFUg" inPartition="_qwDnUKz6EfCDHPGAmpaFUg"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_O00usKz-EfCDHPGAmpaFUg" name="Search Societies" incoming="_CtNnMKz_EfCDHPGAmpaFUg" outgoing="_E6sLYKz_EfCDHPGAmpaFUg" inPartition="_qwDnUKz6EfCDHPGAmpaFUg"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_5WK_UKz-EfCDHPGAmpaFUg" name="Select Society" incoming="_E6sLYKz_EfCDHPGAmpaFUg" outgoing="_MJX_oKz_EfCDHPGAmpaFUg" inPartition="_qwDnUKz6EfCDHPGAmpaFUg"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_GoP5YKz_EfCDHPGAmpaFUg" name="Show Society Details" incoming="_MJX_oKz_EfCDHPGAmpaFUg" outgoing="_0duNMKz_EfCDHPGAmpaFUg" inPartition="_wHQVgKz6EfCDHPGAmpaFUg"/>
+    <node xmi:type="uml:DecisionNode" xmi:id="_lLRW0Kz_EfCDHPGAmpaFUg" name="IsAffiliated?" incoming="_0duNMKz_EfCDHPGAmpaFUg" outgoing="_AfzfAK0AEfCDHPGAmpaFUg _JLXx4K0JEfCDHPGAmpaFUg" inPartition="_wHQVgKz6EfCDHPGAmpaFUg"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_22T1MKz_EfCDHPGAmpaFUg" name="Show Not Affiliated" incoming="_AfzfAK0AEfCDHPGAmpaFUg" outgoing="_OQiOgK0BEfCDHPGAmpaFUg" inPartition="_wHQVgKz6EfCDHPGAmpaFUg"/>
+    <node xmi:type="uml:ForkNode" xmi:id="_HytE4K0AEfCDHPGAmpaFUg" name="" incoming="_OI0jUK0JEfCDHPGAmpaFUg" outgoing="_WYzcgK0JEfCDHPGAmpaFUg _ao4xoK0JEfCDHPGAmpaFUg" inPartition="_qwDnUKz6EfCDHPGAmpaFUg"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_oZrXEK0AEfCDHPGAmpaFUg" name="Subscribe" incoming="_ao4xoK0JEfCDHPGAmpaFUg" outgoing="_wvgqgK0JEfCDHPGAmpaFUg" inPartition="_qwDnUKz6EfCDHPGAmpaFUg"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_rOtqgK0AEfCDHPGAmpaFUg" name="Join" incoming="_WYzcgK0JEfCDHPGAmpaFUg" outgoing="_qnT9MK0JEfCDHPGAmpaFUg" inPartition="_qwDnUKz6EfCDHPGAmpaFUg"/>
+    <node xmi:type="uml:CentralBufferNode" xmi:id="_CHDUMK0BEfCDHPGAmpaFUg" name="Join Request" incoming="__b7boK0JEfCDHPGAmpaFUg" outgoing="_AQ3fkK0KEfCDHPGAmpaFUg">
+      <upperBound xmi:type="uml:LiteralInteger" xmi:id="_CHD7QK0BEfCDHPGAmpaFUg" value="1"/>
+    </node>
+    <node xmi:type="uml:FlowFinalNode" xmi:id="_MYhkAK0BEfCDHPGAmpaFUg" name="" incoming="_OQiOgK0BEfCDHPGAmpaFUg"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_15ZAUK0HEfCDHPGAmpaFUg" name="Verify affiliation &amp; add member" outgoing="_dA9m0K0KEfCDHPGAmpaFUg" inPartition="_3NbuAKz6EfCDHPGAmpaFUg">
+      <inputValue xmi:type="uml:InputPin" xmi:id="_AQ4GoK0KEfCDHPGAmpaFUg" name="InputPin1" incoming="_AQ3fkK0KEfCDHPGAmpaFUg">
+        <upperBound xmi:type="uml:LiteralInteger" xmi:id="_AQ5UwK0KEfCDHPGAmpaFUg" value="1"/>
+      </inputValue>
+    </node>
+    <node xmi:type="uml:CentralBufferNode" xmi:id="_Du5-oK0IEfCDHPGAmpaFUg" name="Subscribe Request" incoming="_BYhEIK0KEfCDHPGAmpaFUg" outgoing="_OuHMQK0KEfCDHPGAmpaFUg">
+      <upperBound xmi:type="uml:LiteralInteger" xmi:id="_Du6lsK0IEfCDHPGAmpaFUg" value="1"/>
+    </node>
+    <node xmi:type="uml:JoinNode" xmi:id="_aVwPsK0IEfCDHPGAmpaFUg" name="" incoming="_ZfH3wK0KEfCDHPGAmpaFUg _dA9m0K0KEfCDHPGAmpaFUg" outgoing="_4XpEEK0KEfCDHPGAmpaFUg" inPartition="_3NbuAKz6EfCDHPGAmpaFUg"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_hahS8K0IEfCDHPGAmpaFUg" name="Show Response" outgoing="_rNuSYK0IEfCDHPGAmpaFUg" inPartition="_wHQVgKz6EfCDHPGAmpaFUg">
+      <inputValue xmi:type="uml:InputPin" xmi:id="_wu8NUK0KEfCDHPGAmpaFUg" name="InputPin1" incoming="_wu7mQK0KEfCDHPGAmpaFUg">
+        <upperBound xmi:type="uml:LiteralInteger" xmi:id="_wu9bcK0KEfCDHPGAmpaFUg" value="1"/>
+      </inputValue>
+    </node>
+    <node xmi:type="uml:ActivityFinalNode" xmi:id="_p0wUUK0IEfCDHPGAmpaFUg" name="" incoming="_rNuSYK0IEfCDHPGAmpaFUg"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_Dl5-MK0JEfCDHPGAmpaFUg" name="Show Join | Subscribe Button" incoming="_JLXx4K0JEfCDHPGAmpaFUg" outgoing="_OI0jUK0JEfCDHPGAmpaFUg" inPartition="_wHQVgKz6EfCDHPGAmpaFUg"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_iXuFkK0JEfCDHPGAmpaFUg" name="Send Join Request" incoming="_qnT9MK0JEfCDHPGAmpaFUg" inPartition="_wHQVgKz6EfCDHPGAmpaFUg">
+      <outputValue xmi:type="uml:OutputPin" xmi:id="__b934K0JEfCDHPGAmpaFUg" name="OutputPin1" outgoing="__b7boK0JEfCDHPGAmpaFUg">
+        <upperBound xmi:type="uml:LiteralInteger" xmi:id="__b_tEK0JEfCDHPGAmpaFUg" value="1"/>
+      </outputValue>
+    </node>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_mtqyIK0JEfCDHPGAmpaFUg" name="Send Subscribe Request" incoming="_wvgqgK0JEfCDHPGAmpaFUg" inPartition="_wHQVgKz6EfCDHPGAmpaFUg">
+      <outputValue xmi:type="uml:OutputPin" xmi:id="_BYhrMK0KEfCDHPGAmpaFUg" name="OutputPin1" outgoing="_BYhEIK0KEfCDHPGAmpaFUg">
+        <upperBound xmi:type="uml:LiteralInteger" xmi:id="_BYi5UK0KEfCDHPGAmpaFUg" value="1"/>
+      </outputValue>
+    </node>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_LD0r0K0KEfCDHPGAmpaFUg" name="Subscribe Student" outgoing="_ZfH3wK0KEfCDHPGAmpaFUg" inPartition="_3NbuAKz6EfCDHPGAmpaFUg">
+      <inputValue xmi:type="uml:InputPin" xmi:id="_OuJogK0KEfCDHPGAmpaFUg" name="InputPin1" incoming="_OuHMQK0KEfCDHPGAmpaFUg">
+        <upperBound xmi:type="uml:LiteralInteger" xmi:id="_OuK2oK0KEfCDHPGAmpaFUg" value="1"/>
+      </inputValue>
+    </node>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_TzGJEK0KEfCDHPGAmpaFUg" name="Send Response" incoming="_4XpEEK0KEfCDHPGAmpaFUg" inPartition="_3NbuAKz6EfCDHPGAmpaFUg">
+      <outputValue xmi:type="uml:OutputPin" xmi:id="_3E30oK0KEfCDHPGAmpaFUg" name="OutputPin1" outgoing="_3E1YYK0KEfCDHPGAmpaFUg">
+        <upperBound xmi:type="uml:LiteralInteger" xmi:id="_3E5CwK0KEfCDHPGAmpaFUg" value="1"/>
+      </outputValue>
+    </node>
+    <node xmi:type="uml:CentralBufferNode" xmi:id="_hXWYQK0KEfCDHPGAmpaFUg" name="Response" incoming="_3E1YYK0KEfCDHPGAmpaFUg" outgoing="_wu7mQK0KEfCDHPGAmpaFUg">
+      <upperBound xmi:type="uml:LiteralInteger" xmi:id="_hXW_UK0KEfCDHPGAmpaFUg" value="1"/>
+    </node>
+  </packagedElement>
 </uml:Model>
