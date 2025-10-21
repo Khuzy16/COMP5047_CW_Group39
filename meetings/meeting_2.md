@@ -1,7 +1,7 @@
-# Meeting number
+# Meeting 2
 
 **Date:** 07/10/2025  
-**Time:** 13:15 - 14:50
+**Time:** 13:15 - 14:50  
 **Location:** In-person  
 
 ---
